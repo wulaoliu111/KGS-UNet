@@ -1,1 +1,568 @@
+[
+    {
+        "modelname": "U_Net",
+        "id": 1,
+        "filename": "U_Net/U_Net.py"
+    },
+    {
+        "modelname": "UNeXt",
+        "id": 2,
+        "filename": "UNeXt/UNeXt.py"
+    },
+    {
+        "modelname": "AttU_Net",
+        "id": 3,
+        "filename": "AttU_Net/AttU_Net.py"
+    },
+    {
+        "modelname": "CMU_Net",
+        "id": 4,
+        "filename": "CMU_Net/CMU_Net.py"
+    },
+    {
+        "modelname": "CMUNeXt",
+        "id": 5,
+        "filename": "CMUNeXt/CMUNeXt.py"
+    },
+    {
+        "modelname": "UNet3plus",
+        "id": 6,
+        "filename": "UNet3plus/UNet3plus.py"
+    },
+    {
+        "modelname": "UCTransNet",
+        "id": 7,
+        "filename": "Hybrid/UCTransNet/UCTransNet"
+    },
+    {
+        "modelname": "Tinyunet",
+        "id": 8,
+        "filename": "TinyUNet.py"
+    },
+    {
+        "modelname": "MissFormer",
+        "id": 9,
+        "filename": "MISSFormer.py"
+    },
+    {
+        "modelname": "TransUnet",
+        "id": 10
+    },
+    {
+        "modelname": "MedT",
+        "id": 11
+    },
+    {
+        "modelname": "ResNet34UnetPlus",
+        "id": 12,
+        "filename": "UNetplus.py"
+    },
+    {
+        "modelname": "SwinUnet",
+        "id": 13
+    },
+    {
+        "modelname": "MFMSNet",
+        "id": 15,
+        "deeps_supervision": 1,
+        "filename": "IS2D_models"
+    },
+    {
+        "modelname": "MultiResUNet",
+        "id": 16,
+        "备注": "",
+        "filename": "MultiResUNet/MultiResUNet.py"
+    },
+    {
+        "modelname": "R2U_Net",
+        "id": 17,
+        "filename": "R2U_Net/R2U_Net.py"
+    },
+    {
+        "modelname": "CE_Net",
+        "id": 18,
+        "filename": "CE_Net"
+    },
+    {
+        "modelname": "ResUNetPlusPlus",
+        "id": 19,
+        "filename": "ResUNetPlusPlus/ResUNetPlusPlus.py"
+    },
+    {
+        "modelname": "MBSNet",
+        "id": 20,
+        "filename": "MBSNet"
+    },
+    {
+        "modelname": "CA_Net",
+        "id": 21,
+        "filename": "CA_Net"
+    },
+    {
+        "modelname": "LFU_Net",
+        "id": 23,
+        "filename": "LFU_Net"
+    },
+    {
+        "modelname": "DC_UNet",
+        "id": 24
+    },
+    {
+        "modelname": "ColonSegNet",
+        "id": 25,
+        "filename": "ColonSegNet"
+    },
+    {
+        "modelname": "LV_UNet",
+        "id": 26,
+        "filename": "LV_UNet"
+    },
+    {
+        "modelname": "CPCANet",
+        "id": 27,
+        "filename": "CPCANet"
+    },
+    {
+        "modelname": "Perspective_Unet",
+        "id": 28,
+        "filename": "Perspective_Unet"
+    },
+    {
+        "modelname": "ESKNet",
+        "id": 29,
+        "filename": "ESKNet"
+    },
 
+    {
+        "modelname": "MALUNet",
+        "id": 30,
+        "filename": "MALUNet"
+    },
+    {
+        "modelname": "DCSAU_Net",
+        "id": 31,
+        "filename": "DCSAU_Net"
+    },
+    {
+        "modelname": "FAT_Net",
+        "id": 32,
+        "filename": "FAT_Net"
+    },
+    {
+        "modelname": "CFPNet_M",
+        "id": 33,
+        "filename": "CFPNet_M"
+    },
+    {
+        "modelname": "EMCAD",
+        "id": 34,
+        "deeps_supervision": 1,
+        "filename": "other/emcad"
+
+    },
+    {
+        "modelname": "CaraNet",
+        "id": 36,
+        "deeps_supervision": 1,
+        "filename": "CaraNet/CaraNet.py"
+    },
+    {
+        "modelname": "DDANet",
+        "id": 37,
+        "deeps_supervision": 1,
+        "filename": "DDANet/DDANet.py"
+    },
+    {
+        "modelname": "PraNet",
+        "id": 39,
+        "deeps_supervision": 1,
+        "filename": "PraNet/PraNet.py"
+    },
+    {
+        "modelname": "TA_Net",
+        "id": 40,
+        "filename": "TANet/TANet.py"
+    },
+    {
+        "modelname": "Egeunet",
+        "id": 42,
+        "deeps_supervision": 1,
+        "filename": "Egeunet.py"
+    },
+    {
+        "modelname": "ERDUnet",
+        "id": 43,
+        "filename": "ERDUnet.py"
+    },
+    {
+        "modelname": "DoubleUNet",
+        "id": 45,
+        "deeps_supervision": 1,
+        "filename": "dobuleunet.py"
+    },
+    {
+        "modelname": "RollingUnet",
+        "id": 46,
+        "filename": "RollingUnet.py"
+    },
+    {
+        "modelname": "UNetV2",
+        "id": 47,
+        "deeps_supervision": 1,
+        "filename": "UNet_v2/UNet_v2.py"
+    },
+    {
+        "modelname": "CSCAUNet",
+        "id": 48,
+        "deeps_supervision": 1,
+        "filename": "CSCAUNet.py"
+    },
+    {
+        "modelname": "UACANet",
+        "id": 49,
+        "deeps_supervision": 1,
+        "filename": "UACANet"
+    },
+    {
+        "modelname": "MMUNet",
+        "id": 50,
+        "filename": "MMUNet.py"
+    },
+    {
+        "modelname": "ULite",
+        "id": 51,
+        "filename": "ULite.py"
+    },
+    {
+        "modelname": "SimpleUNet",
+        "id": 52,
+        "filename": "SimpleUNet.py"
+    },
+    {
+        "modelname": "MEGANet",
+        "id": 53,
+        "deeps_supervision": 1,
+        "filename": "MEGANet_ResNet"
+    },
+    {
+        "modelname": "LM_Net",
+        "id": 54,
+        "filename": "LMNet"
+    },
+
+
+    {
+        "modelname": "AURA_Net",
+        "id": 55,
+        "filename": "Hybrid/AURA_Net/AURA_Net.py"
+    },
+    {
+        "modelname": "BEFUnet",
+        "id": 56,
+        "filename": "Hybrid/BEFUnet/BEFUnet.py"
+    },
+    {
+        "modelname": "CASCADE",
+        "id": 57,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/CASCADE/CASCADE.py"
+    },
+    {
+        "modelname": "G_CASCADE",
+        "id": 58,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/G_CASCADE/G_CASCADE.py"
+    },
+    {
+        "modelname": "ConvFormer",
+        "id": 59,
+        "filename": "Hybrid/ConvFormer/ConvFormer.py"
+    },
+    {
+        "modelname": "DA_TransUNet",
+        "id": 60,
+        "filename": "Hybrid/DA_Transformer/DA_Transformer.py"
+    },
+    {
+        "modelname": "DAEFormer",
+        "id": 61,
+        "filename": "Hybrid/DAEFormer/DAEFormer.py"
+    },
+    {
+        "modelname": "DS_TransUNet",
+        "id": 62,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/DS_TransUNet/DS_TransUNet.py"
+    },
+    {
+        "modelname": "FCBFormer",
+        "id": 63,
+        "filename": "Hybrid/FCBFormer/FCBFormer.py"
+    },
+    {
+        "modelname": "LeViT_UNet",
+        "id": 64,
+        "filename": "Hybrid/LeViT_UNet/LeViT_UNet.py"
+    },
+    {
+        "modelname": "HiFormer",
+        "id": 65,
+        "filename": "Hybrid/HiFormer/HiFormer.py"
+    },
+    {
+        "modelname": "MERIT",
+        "id": 66,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/MERIT/MERIT.py"
+    },
+    {
+        "modelname": "MT_UNet",
+        "id": 67,
+        "filename": "Hybrid/MT_UNet/MT_UNet.py"
+    },
+    {
+        "modelname": "TransAttUnet",
+        "id": 68,
+        "filename": "Hybrid/TransAttUnet/TransAttUnet.py"
+    },
+    {
+        "modelname": "TransFuse",
+        "id": 69,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/TransFuse/TransFuse.py"
+    },
+    {
+        "modelname": "TransNorm",
+        "id": 70,
+        "filename": "Hybrid/TransNorm/TransNorm.py"
+    },
+    {
+        "modelname": "TransResUNet",
+        "id": 71,
+        "filename": "Hybrid/TransResUNet/TransResUNet.py"
+    },
+    {
+        "modelname": "UTNet",
+        "id": 73,
+        "filename": "Hybrid/UTNet/UTNet.py"
+
+    },
+    {
+        "modelname": "GH_UNet",
+        "id": 74,
+        "deeps_supervision": 1,
+        "filename": "CNN/GH_UNet/GH_UNet.py"
+    },
+    {
+        "modelname": "MSRFNet",
+        "id": 75,
+        "deeps_supervision": 1,
+        "filename": "CNN/MSRFNet/MSRFNet.py"
+    },
+    {
+        "modelname": "braunet_plus_plus",
+        "id": 76,
+        "filename": "Hybrid/BRAUnet_plus_plus/bra_unet.py"
+    },
+    {
+        "modelname": "CSWin_UNet",
+        "id": 77,
+        "filename": "Hybrid/CSWin_UNet/CSWin_UNet.py"
+    },
+    {
+        "modelname": "D_TrAttUnet",
+        "id": 78,
+        "deeps_supervision": 1,
+        "filename": "Hybrid/D_TrAttUnet/D_TrAttUnet.py"
+    },
+    {
+        "modelname": "EViT_UNet",
+        "id": 79,
+        "filename": "Hybrid/EViT_UNet/EViT_UNet.py"
+    },
+    {
+        "modelname": "MedFormer",
+        "id": 80,
+        "filename": "Hybrid/MedFormer/MedFormer.py"
+    },
+    {
+        "modelname": "MSLAU_Net",
+        "id": 81,
+        "filename": "Hybrid/MSLAU_Net/MSLAU_Net.py"
+    },
+    {
+        "modelname": "BATFormer",
+        "id": 82,
+        "filename": "Transformer/BATFormer/BATFormer.py"
+    },
+    {
+        "modelname": "Polyp_PVT",
+        "id": 83,
+        "deeps_supervision": 1,
+        "filename": "Transformer/Polyp_PVT/Polyp_PVT.py"
+    },
+    {
+        "modelname": "SCUNet_plus_plus",
+        "id": 84,
+        "filename": "Transformer/SCUNet_plus_plus/SCUNet_plus_plus.py"
+    },
+    {
+        "modelname": "LM_Net",
+        "id": 85,
+        "filename": "conv_based/LMNet/LMNet.py"
+    },
+    {
+        "modelname": "MobileUViT",
+        "id": 86,
+        "filename": "conv_based/MobileUViT/MobileUViT.py"
+    },
+    {
+        "modelname": "LGMSNet",
+        "id": 87,
+        "filename": "conv_based/LGMSNet/LGMSNet.py"
+    },
+    {
+        "modelname": "AC_MambaSeg",
+        "id": 88,
+        "filename": "Mamba/AC_MambaSeg/AC_MambaSeg.py"
+    },
+    {
+        "modelname": "H_vmunet",
+        "id": 89,
+        "filename": "Mamba/H_vmunet/H_vmunet.py"
+    },
+    {
+        "modelname": "MambaUnet",
+        "id": 90,
+        "filename": "Mamba/MambaUnet/MambaUnet.py"
+    },
+    {
+        "modelname": "MUCM_Net",
+        "id": 91,
+        "filename": "Mamba/MUCM_Net/MUCM_Net.py"
+    },
+    {
+        "modelname": "Swin_umamba",
+        "id": 92,
+        "filename": "Mamba/Swin_umamba/Swin_umamba.py"
+    },
+    {
+        "modelname": "Swin_umambaD",
+        "id": 93,
+        "filename": "Mamba/Swin_umambaD/Swin_umambaD.py"
+    },
+    {
+        "modelname": "UltraLight_VM_UNet",
+        "id": 94,
+        "filename": "Mamba/UltraLight_VM_UNet/UltraLight_VM_UNet.py"
+    },
+    {
+        "modelname": "VMUNet",
+        "id": 95,
+        "filename": "Mamba/VMUNet/VMUNet.py"
+    },
+    {
+        "modelname": "VMUNetV2",
+        "id": 96,
+        "filename": "Mamba/VMUNetV2/VMUNetV2.py"
+    },
+    {
+        "modelname": "UTANet",
+        "id": 97,
+        "filename": "UTANet.py"
+    },
+    {
+        "modelname": "DDS_UNet",
+        "id": 98,
+        "filename": "DDS_UNet.py"
+    },
+    {
+        "modelname": "MCA_UNet",
+        "id": 99,
+        "deeps_supervision": 1,
+        "filename": "MCA_UNet.py"
+    },
+    {
+        "modelname": "MDSA_UNet",
+        "id": 100,
+        "filename": "MDSA_UNet.py"
+    },
+    {
+        "modelname": "U_KAN",
+        "id": 101,
+        "filename": "U_KAN.py"
+    },
+    {
+        "modelname": "ResU_KAN",
+        "id": 102,
+        "filename": "ResU_KAN.py"
+    },
+    {
+        "modelname": "SwinUNETR",
+        "id": 103,
+        "filename": "SwinUNETR.py"
+    },
+    {
+        "modelname": "UNETR",
+        "id": 104,
+        "filename": "UNETR.py"
+    },
+    {
+        "modelname": "CFFormer",
+        "id": 105,
+        "filename": "CFFormer.py"
+    },
+    {
+        "modelname": "CENet",
+        "id": 106,
+        "filename": "CENet.py"
+    },
+    {
+        "modelname": "CFM_UNet",
+        "id": 107,
+        "filename": "CFM_UNet.py"
+    },
+    {
+        "modelname": "H2Former",
+        "id": 108,
+        "filename": "H2Former.py"
+    },
+    {
+        "modelname": "ScribFormer",
+        "id": 109,
+        "deeps_supervision": 1,
+        "filename": "ScribFormer.py"
+    },
+    {
+        "modelname": "RAT_Net",
+        "id": 110,
+        "filename": "RAT_Net.py"
+    },
+    {
+        "modelname": "Zig_RiR",
+        "id": 111,
+        "filename": "Zig_RiR.py"
+    },
+    {
+        "modelname": "RWKV_UNet",
+        "id": 112,
+        "filename": "RWKV_UNet.py"
+    },
+    {
+        "modelname": "U_RWKV",
+        "id": 113,
+        "filename": "U_RWKV.py"
+    },
+    {
+        "modelname": "MedVKAN",
+        "id": 114,
+        "filename": "MedVKAN.py"
+    },
+
+    {
+        "modelname": "KGS_UNet",
+        "id": 115,
+        "filename": "KGS_UNet.py"
+    }
+
+]
