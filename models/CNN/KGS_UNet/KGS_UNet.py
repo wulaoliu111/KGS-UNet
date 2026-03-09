@@ -715,7 +715,7 @@ class KGS_UNet_Compat(nn.Module):
         if strict and (miss or unex):
             raise RuntimeError(f"Incompatible keys (non-SSA): missing={miss}, unexpected={unex}")
         return info
-#chatgpt
+
 def KGS_UNet_F(
     input_channel:Optional[int] = None,
     in_ch: int = 3,
@@ -757,3 +757,4 @@ def KGS_UNet_F(
         logit_clip=logit_clip,
         return_deeps=return_deeps,
     )
+
